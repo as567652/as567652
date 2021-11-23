@@ -75,6 +75,4 @@ Welcome to my Github Page. You can check my projects and ideas that I'm currentl
 
 ### 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github.com/as567652/as567652/blob/main/github-metrics.svg" alt="Metrics" width="100%">
-</p>
+<img src="https://github.com/as567652/as567652/blob/main/github-metrics.svg" alt="Metrics">
