@@ -13,11 +13,9 @@ I'm currently 3rd year CSE Student, at SRMIST Chennai India.
 </h5>
 
 ### :point_right: About Me:
-
-<p align="center">
+<!-- <p align="center">
 <img src="https://user-images.githubusercontent.com/52396867/141177335-fb3a20ae-eeba-4154-9b74-004f8d4c9d1c.gif" alt="My Project GIF">
-</p>
-
+</p> -->
 Welcome to my Github Page. You can check my projects and ideas that I'm currently working on <a href = "https://github.com/as567652?tab=repositories">here</a>. Fell free to contact me :smile:.
 - :eyes: I'm interested in Computer Vision and Web Development
 - 🤝 I'm looking to collaborate on Full Stack Web Development
@@ -78,7 +76,5 @@ Welcome to my Github Page. You can check my projects and ideas that I'm currentl
 ### 📈 GitHub Stats
 
 <p align="center">
-
-![Metrics](https://github.com/as567652/as567652/blob/main/github-metrics.svg)
-
+<img src="https://github.com/as567652/as567652/blob/master/github-metrics.svg" alt="Metrics" width="100%">
 </p>
