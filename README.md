@@ -9,7 +9,7 @@ I'm <a href="" target="_blank" rel="noreferrer">Abhinav Sharma</a>:boy:
 </h3>
 
 <h5 align="center">
-I'm currently 3rd year CSE Student, at SRMIST Chennai India.
+I'm currently 3rd year CSE Student, at SRMIST Chennai India.:school::school:
 </h5>
 
 ### :point_right: About Me:
@@ -19,18 +19,18 @@ I'm currently 3rd year CSE Student, at SRMIST Chennai India.
 Welcome to my Github Page. You can check my projects and ideas that I'm currently working on <a href = "https://github.com/as567652?tab=repositories">here</a>. Fell free to contact me :smile:.
 - :eyes: I'm interested in Computer Vision and Web Development
 - 🤝 I'm looking to collaborate on Full Stack Web Development
-- :sparkles: Fun Fact :- 
+- :sparkles: Fun Fact About Me :- I like to draw :art:
 
 
 ### :email: You can connect with me via:
-<a href="www.linkedin.com/in/abhinav-sh" >![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="" >![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:as567652@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 
 ### 🔭 I'm currently working on
 
-- My unfinished projects.
-- DSA + DAA Problems
+- My unfinished projects.:zap:
+- DSA + DAA Problems:zap::zap:
 
 
 ### 🌱 I'm currently learning
@@ -75,6 +75,4 @@ Welcome to my Github Page. You can check my projects and ideas that I'm currentl
 
 ### 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github.com/as567652/as567652/blob/master/github-metrics.svg" alt="Metrics" width="100%">
-</p>
+![Metrics](https://github.com/as567652/as567652/blob/master/github-metrics.svg)
